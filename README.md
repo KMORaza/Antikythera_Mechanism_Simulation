@@ -17,3 +17,17 @@ Orbital motion of moons around their corresponding planets:
  (Mercury and Venus has no moons)
 
 The front view of Antikythera Mechanism also has demonstration of Zodiac system, Gregorian Solar calendar, Lunar phase indication and all of their dials are in form of concentric circles.
+
+These are the Zodiac symbols:
+ * ΚΡΙΟΣ (Krios/Aries)               (denoted as ♈︎)
+ * ΤΑΥΡΟΣ (Tauros/Taurus)            (denoted as ♉︎)
+ * ΔΙΔΥΜΟΙ (Didymoi/Gemini)          (denoted as ♊︎)
+ * ΚΑΡΚΙΝΟΣ (Karkinos/Cancer)        (denoted as ♋︎)
+ * ΛΕΩΝ (Leon/Leo)                   (denoted as ♌︎)
+ * ΠΑΡΘΕΝΟΣ (Parthenos/Virgo)        (deenoted as ♍︎)
+ * ΧΗΛΑΙ (Chelai/Libra)              (denoted as ♎︎)
+ * ΣΚΟΡΠΙΟΣ (Skorpios/Scorpio)       (denoted as ♏︎)
+ * ΤΟΞΟΤΗΣ (Toxotes/Sagittarius)     (denoted as ♐︎)
+ * ΑΙΓΟΚΕΡΩΣ (Aigokeros/Capricorn)   (denoted as ♑︎)
+ * ΥΔΡΟΧΟΟΣ (Hydrokhoos/Aquarius)    (denoted as ♒︎)
+ * ΙΧΘΥΕΣ (Ichthyes/Pisces)          (denoted as ♓︎)
