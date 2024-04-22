@@ -82,7 +82,9 @@ Metonic dial covers 235 months close to 19 years and dial consists of incription
 ![](https://github.com/KMORaza/Antikythera_Mechanism_Simulation/blob/main/Antikythera%20Mechanism/src/Screenshots/Metonic%20Dial.jpg)
 
 Saros Cycle:
+
 ![](https://github.com/KMORaza/Antikythera_Mechanism_Simulation/blob/main/Antikythera%20Mechanism/src/Screenshots/Saros%20Dial.png)
 
 Olympiad Cycle:
+
 ![](https://github.com/KMORaza/Antikythera_Mechanism_Simulation/blob/main/Antikythera%20Mechanism/src/Screenshots/Olympiad%20Dial.png)
