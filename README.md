@@ -18,16 +18,43 @@ Orbital motion of moons around their corresponding planets:
 
 The front view of Antikythera Mechanism also has demonstration of Zodiac system, Gregorian Solar calendar, Lunar phase indication and all of their dials are in form of concentric circles.
 
-These are the Zodiac symbols:
- * ΚΡΙΟΣ (Krios/Aries)               (denoted as ♈︎)
- * ΤΑΥΡΟΣ (Tauros/Taurus)            (denoted as ♉︎)
- * ΔΙΔΥΜΟΙ (Didymoi/Gemini)          (denoted as ♊︎)
- * ΚΑΡΚΙΝΟΣ (Karkinos/Cancer)        (denoted as ♋︎)
- * ΛΕΩΝ (Leon/Leo)                   (denoted as ♌︎)
- * ΠΑΡΘΕΝΟΣ (Parthenos/Virgo)        (deenoted as ♍︎)
- * ΧΗΛΑΙ (Chelai/Libra)              (denoted as ♎︎)
- * ΣΚΟΡΠΙΟΣ (Skorpios/Scorpio)       (denoted as ♏︎)
- * ΤΟΞΟΤΗΣ (Toxotes/Sagittarius)     (denoted as ♐︎)
- * ΑΙΓΟΚΕΡΩΣ (Aigokeros/Capricorn)   (denoted as ♑︎)
- * ΥΔΡΟΧΟΟΣ (Hydrokhoos/Aquarius)    (denoted as ♒︎)
- * ΙΧΘΥΕΣ (Ichthyes/Pisces)          (denoted as ♓︎)
+Zodiac symbols:
+ * ΚΡΙΟΣ (Krios/Aries)        
+ * ΤΑΥΡΟΣ (Tauros/Taurus)     
+ * ΔΙΔΥΜΟΙ (Didymoi/Gemini)        
+ * ΚΑΡΚΙΝΟΣ (Karkinos/Cancer)      
+ * ΛΕΩΝ (Leon/Leo)              
+ * ΠΑΡΘΕΝΟΣ (Parthenos/Virgo)    
+ * ΧΗΛΑΙ (Chelai/Libra)      
+ * ΣΚΟΡΠΙΟΣ (Skorpios/Scorpio)   
+ * ΤΟΞΟΤΗΣ (Toxotes/Sagittarius)   
+ * ΑΙΓΟΚΕΡΩΣ (Aigokeros/Capricorn)  
+ * ΥΔΡΟΧΟΟΣ (Hydrokhoos/Aquarius)
+ * ΙΧΘΥΕΣ (Ichthyes/Pisces)
+
+Gregorian Solar calendar:
+ * JANUARY
+ * FEBRUARY
+ * MARCH
+ * APRIL
+ * MAY
+ * JUNE
+ * JULY
+ * AUGUST
+ * SEPTEMBER
+ * OCTOBER
+ * NOVEMBER
+ * DECEMBER
+
+Lunar phases:
+ * NEW MOON
+ * WAXING CRESCENT
+ * FIRST QUARTER
+ * WAXING GIBBOUS
+ * FULL MOON
+ * WANING GIBBOUS
+ * LAST QUARTER
+ * WANING CRESCENT
+
+![](https://github.com/KMORaza/Antikythera_Mechanism_Simulation/blob/main/Antikythera%20Mechanism/src/Screenshots/Antikythera%20Mechanism%20-%20Front%20View.png?raw=true)
+![](https://github.com/KMORaza/Antikythera_Mechanism_Simulation/blob/main/Antikythera%20Mechanism/src/Screenshots/Antikythera%20Mechanism%20-%20Front%20View.mp4)
