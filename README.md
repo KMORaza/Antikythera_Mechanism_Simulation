@@ -88,3 +88,7 @@ Saros Cycle:
 Olympiad Cycle:
 
 ![](https://github.com/KMORaza/Antikythera_Mechanism_Simulation/blob/main/Antikythera%20Mechanism/src/Screenshots/Olympiad%20Dial.png)
+
+Exeligmos Cycle:
+
+![](https://github.com/KMORaza/Antikythera_Mechanism_Simulation/blob/main/Antikythera%20Mechanism/src/Screenshots/Exeligmos%20Cycle.png)
