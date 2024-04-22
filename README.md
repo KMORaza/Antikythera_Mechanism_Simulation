@@ -1,4 +1,4 @@
-## Simulation of Antikythera Mechanism using JavaFX application
+## Simulation of Antikythera Mechanism using JavaFX Application
 This application is developed to simulate the functionality and features of the historic Antikythera Mechanism. Built with JavaFX, the simulation replicates the movements, calculations, and functionalities of Antikythera Mechanism, offering a modern interpretation.
 
 ### Front view of mechanism
@@ -14,7 +14,7 @@ Orbital motion of moons around their corresponding planets:
  * Revolution of Titan, Enceladus, Rhea, Dione, Iapetus, Janus & Epimetheus around Saturn
  * Revolution of Miranda, Ariel, Umbriel, Titania, Oberon around Uranus
  * Revolution of Triton, Proteus, Nereid around Neptune
- * (Mercury and Venus do not have moons)
+ * Mercury and Venus do not have moons
 
 The front view of Antikythera Mechanism also has demonstration of Zodiac system, Gregorian Solar calendar, Lunar phase indication and all of their dials are in form of concentric circles.
 
