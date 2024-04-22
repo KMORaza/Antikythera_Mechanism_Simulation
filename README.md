@@ -58,7 +58,7 @@ Lunar phases:
 
 ![](https://github.com/KMORaza/Antikythera_Mechanism_Simulation/blob/main/Antikythera%20Mechanism/src/Screenshots/Antikythera%20Mechanism%20-%20Front%20View.png?raw=true)
 
-![](https://github.com/KMORaza/Antikythera_Mechanism_Simulation/blob/main/Antikythera%20Mechanism/src/Screenshots/front%20view.jpg)
+![](https://github.com/KMORaza/Antikythera_Mechanism_Simulation/blob/main/Antikythera%20Mechanism/src/Screenshots/front%20view.png)
 
 ### Rear view of mechanism
 Rear view of mechanism consists of two larger dial that demonstrate Saros cycle and Metonic cycle and three smaller dials that demonstrate Olympiad cycle, Callippic cycle, Exeligmos cycle
@@ -86,18 +86,3 @@ Saros Cycle:
 
 Olympiad Cycle:
 ![](https://github.com/KMORaza/Antikythera_Mechanism_Simulation/blob/main/Antikythera%20Mechanism/src/Screenshots/Olympiad%20Dial.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
