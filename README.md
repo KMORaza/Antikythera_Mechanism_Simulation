@@ -14,7 +14,7 @@ Orbital motion of moons around their corresponding planets:
  * Revolution of Titan, Enceladus, Rhea, Dione, Iapetus, Janus & Epimetheus around Saturn
  * Revolution of Miranda, Ariel, Umbriel, Titania, Oberon around Uranus
  * Revolution of Triton, Proteus, Nereid around Neptune
- (Mercury and Venus has no moons)
+ * (Mercury and Venus do not have moons)
 
 The front view of Antikythera Mechanism also has demonstration of Zodiac system, Gregorian Solar calendar, Lunar phase indication and all of their dials are in form of concentric circles.
 
@@ -57,4 +57,5 @@ Lunar phases:
  * WANING CRESCENT
 
 ![](https://github.com/KMORaza/Antikythera_Mechanism_Simulation/blob/main/Antikythera%20Mechanism/src/Screenshots/Antikythera%20Mechanism%20-%20Front%20View.png?raw=true)
+
 ![](https://github.com/KMORaza/Antikythera_Mechanism_Simulation/blob/main/Antikythera%20Mechanism/src/Screenshots/Antikythera%20Mechanism%20-%20Front%20View.mp4)
