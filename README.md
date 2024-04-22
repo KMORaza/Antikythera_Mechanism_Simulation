@@ -58,4 +58,46 @@ Lunar phases:
 
 ![](https://github.com/KMORaza/Antikythera_Mechanism_Simulation/blob/main/Antikythera%20Mechanism/src/Screenshots/Antikythera%20Mechanism%20-%20Front%20View.png?raw=true)
 
-![](https://github.com/KMORaza/Antikythera_Mechanism_Simulation/blob/main/Antikythera%20Mechanism/src/Screenshots/Antikythera%20Mechanism%20-%20Front%20View.mp4)
+![](https://github.com/KMORaza/Antikythera_Mechanism_Simulation/blob/main/Antikythera%20Mechanism/src/Screenshots/front%20view.jpg)
+
+### Rear view of mechanism
+Rear view of mechanism consists of two larger dial that demonstrate Saros cycle and Metonic cycle and three smaller dials that demonstrate Olympiad cycle, Callippic cycle, Exeligmos cycle
+
+![](https://github.com/KMORaza/Antikythera_Mechanism_Simulation/blob/main/Antikythera%20Mechanism/src/Screenshots/Antikythera%20Mechanism%20-%20Rear%20View.jpg)
+
+Metonic dial covers 235 months close to 19 years and dial consists of incriptions of Corinthian month names:
+ * ΦΟΙΝΙΚΑΙΟΣ (PHOINIKAIOS)
+ * ΚΡΑΝΕΙΟΣ (KRANEIOS)
+ * ΛΑΝΟΤΡΟΠΙΟΣ (LANOTROPIOS)
+ * ΜΑΧΑΝΕΥΣ (MACHANEUS)
+ * ΔΩΔΕΚΑΤΕΥΣ (DODEKATEUS)
+ * ΕΥΚΛΕΙΟΣ (EUKLEIOS)
+ * ΑΡΤΕΜΙΣΙΟΣ (ARTEMISIOS)
+ * ΨΥΔΡΕΥΣ (PSYDREUS)
+ * ΓΑΜΕΙΛΙΟΣ (GAMEILIOS)
+ * ΑΓΡΙΑΝΙΟΣ (AGRANIOS)
+ * ΠΑΝΑΜΟΣ (PANAMOS)
+ * ΑΠΕΛΛΑΙΟΣ (APELLAIOS)
+
+![](https://github.com/KMORaza/Antikythera_Mechanism_Simulation/blob/main/Antikythera%20Mechanism/src/Screenshots/Metonic%20Dial.jpg)
+
+Saros Cycle:
+![](https://github.com/KMORaza/Antikythera_Mechanism_Simulation/blob/main/Antikythera%20Mechanism/src/Screenshots/Saros%20Dial.png)
+
+Olympiad Cycle:
+![](https://github.com/KMORaza/Antikythera_Mechanism_Simulation/blob/main/Antikythera%20Mechanism/src/Screenshots/Olympiad%20Dial.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
