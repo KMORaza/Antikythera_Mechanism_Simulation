@@ -5,7 +5,7 @@ This application is developed to simulate the functionality and features of the 
 Front view of Antikythera Mechanism demonstrates the revolution of planets (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune) around the Sun. In addition to this, I have included the revolution of moons around their corresponding planets.
 
 Order of revolution of planets:
-       SUN > Mercury > Venus > Earth > Mars > Jupiter > Saturn > Uranus > Neptune
+ * Sun > Mercury > Venus > Earth > Mars > Jupiter > Saturn > Uranus > Neptune
 
 Orbital motion of moons around their corresponding planets:
  * Revolution of Moon around Earth
