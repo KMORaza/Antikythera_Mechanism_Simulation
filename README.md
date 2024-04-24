@@ -1,5 +1,5 @@
 ## Simulation of Antikythera Mechanism using JavaFX Application
-This application is developed to simulate the functionality and features of the historic Antikythera Mechanism. Built with JavaFX, the simulation replicates the movements, calculations, and functionalities of Antikythera Mechanism, offering a modern interpretation.
+This application is developed to simulate the functionality and features of the historic Antikythera Mechanism, an ancient Greek analog computer. Built with JavaFX, the simulation replicates the movements, calculations, and functionalities of Antikythera Mechanism, offering a modern interpretation.
 
 ### Front view of mechanism
 Front view of Antikythera Mechanism demonstrates the revolution of planets (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune) around the Sun. In addition to this, I have included the revolution of moons around their corresponding planets.
